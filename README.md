@@ -1,3 +1,3 @@
-# Sprout
+# Sprout 🌱
 
 Documentation not yet available
